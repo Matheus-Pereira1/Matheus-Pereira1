@@ -1,3 +1,15 @@
+<p align="left">i´m in first semester of university<br><br> Learning: Phyton, HTML</p>
+
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade de estágio. Tenho grande interesse em aprender, desenvolver novas habilidades e aprofundar meus conhecimentos na área de tecnologia. Estou aberto a novos desafios e comprometido com o crescimento contínuo.</p>
+
+###
+
 <h2 align="left">Linguagens</h2>
 
 ###
@@ -22,7 +34,7 @@
 
 ###
 
-<p align="left">Status</p>
+<h2 align="left">Status</h2>
 
 ###
 
